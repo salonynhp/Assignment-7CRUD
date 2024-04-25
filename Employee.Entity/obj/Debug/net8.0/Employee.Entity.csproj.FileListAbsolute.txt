@@ -1,0 +1,14 @@
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\bin\Debug\net8.0\Employee.Entity.deps.json
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\bin\Debug\net8.0\Employee.Entity.runtimeconfig.json
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\bin\Debug\net8.0\Employee.Entity.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\bin\Debug\net8.0\Employee.Entity.pdb
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.csproj.AssemblyReference.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.AssemblyInfoInputs.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.AssemblyInfo.cs
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\refint\Employee.Entity.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.pdb
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\Employee.Entity.genruntimeconfig.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Employee.Entity\obj\Debug\net8.0\ref\Employee.Entity.dll

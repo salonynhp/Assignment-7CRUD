@@ -1,0 +1,11 @@
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\bin\Debug\net8.0\Employee.ViiewModels.deps.json
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\bin\Debug\net8.0\Employee.ViiewModels.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\bin\Debug\net8.0\Employee.ViiewModels.pdb
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.AssemblyInfoInputs.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.AssemblyInfo.cs
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\refint\Employee.ViiewModels.dll
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\Employee.ViiewModels.pdb
+C:\Users\salon\source\Eva\EmployeeData.API\Emplyee.ViiewModels\obj\Debug\net8.0\ref\Employee.ViiewModels.dll

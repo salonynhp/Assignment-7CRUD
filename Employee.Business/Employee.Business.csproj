@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Contract\IEmployeeBusiness.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Contract\IEmployeeBusiness.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Employee.Entity\Employee.Entity.csproj" />
+    <ProjectReference Include="..\Employee.Repository\Employee.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
